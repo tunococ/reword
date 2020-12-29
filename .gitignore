@@ -1,3 +1,6 @@
+*.swp
+/tests/tmp
+
 # Added by cargo
 
 /target

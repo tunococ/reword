@@ -1,6 +1,5 @@
 // reword library
 
-pub use self::diff::*;
+pub mod io;
 
-pub mod diff;
 
